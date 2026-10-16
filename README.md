@@ -6,29 +6,31 @@
 
 <p align="center">
   <a href="https://github.com/dahlanGale">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+Tech+Lead+%7C+PM;3%2B+a%C3%B1os+construyendo+productos+completos;APIs+con+NestJS%2C+Prisma+y+PostgreSQL%2FMySQL;Web+con+React+y+Next.js;Apps+m%C3%B3viles+con+React+Native+y+Expo;Apps+de+escritorio+con+Electron;CRMs%2C+ERPs%2C+POS+y+plataformas+SaaS" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+Tech+Lead+%7C+PM;4%2B+a%C3%B1os+construyendo+productos+completos;APIs+con+NestJS%2C+Prisma+y+PostgreSQL%2FMySQL;Web+con+React+y+Next.js;Apps+m%C3%B3viles+con+React+Native+y+Expo;Apps+de+escritorio+con+Electron;CRMs%2C+ERPs%2C+POS+y+plataformas+SaaS" alt="Typing SVG">
   </a>
 </p>
 
 ## Sobre mí
 
-¡Hola! Soy Sergio, desarrollador de Veracruz, México. Me gusta construir cosas completas: empiezo por la base de datos y la API, sigo con la web, y si hace falta también la app móvil o la de escritorio. Llevo **más de 3 años** haciéndolo y, desde hace **2**, también me toca liderar: decidir la arquitectura, organizar al equipo y ser el puente con el cliente.
+¡Hola! Sergio al habla, aquí un desarrollador de Veracruz, México (no se preocupen, mi equipo es a prueba de agua). Tengo **más de 7 años programando apps**, desde el "Hola Mundo" hasta el prompt engineering, y cuento con **4 años de experiencia desarrollando de manera profesional**: somos mi carrera técnica de Programador y mis cursos de Fernando Herrera contra el mundo. Desde hace un tiempo también me ha tocado liderar: arquitectura, organizar al equipo, consensuar con los clientes y ser el puente entre la idea que tienen en mente y el plano terrenal.
 
-He pasado por de todo: una app Android para inventarios, un ERP en VBA y Access, CRMs, plataformas de recursos humanos, SaaS multi-tenant y varios puntos de venta. Últimamente también le meto IA a los productos.
+He pasado por de todo, literal: armar servidores, instalar cámaras de seguridad, apps de Android para inventarios, un ERP en VBA y Access (no lo recomiendo), CRMs, plataformas de recursos humanos, SaaS multi-tenant y varios puntos de venta. Últimamente también le meto IA a los productos, para estar a la vanguardia con las tendencias.
+
+¡Este es mi pequeño espacio! No es mucho, pero es trabajo honesto.
 
 ## Experiencia por rol
 
 | Rol | Experiencia |
 | --- | --- |
-| Desarrollador Full-Stack | 3+ años |
-| Frontend Developer | 3+ años |
-| Backend Developer | 3+ años |
+| Desarrollador Full-Stack | 4+ años |
+| Frontend Developer | 4+ años |
+| Backend Developer | 4+ años |
 | Tech Lead | 2+ años |
 | Project Manager | 2+ años |
 
 **Full-Stack Developer** — Llevo productos de punta a punta: modelo de datos, API, web, móvil y escritorio. En Mi Espacio Mereti trabajo en todas las capas a la vez, con un contrato de tipos compartido para que la API, la consola web y la app móvil nunca se desalineen.
 
-**Frontend Developer** — Construyo interfaces en React y Next.js con Ant Design, Mantine o Tailwind, manejo de estado con Redux Toolkit y TanStack Query, internacionalización con i18next y clientes tipados generados desde OpenAPI. Pruebo con Vitest, Testing Library y Playwright, y cuido la accesibilidad con axe.
+**Frontend Developer** — Construyo interfaces en React y Next.js con Ant Design, Mantine o Tailwind, manejo de estado con Redux Toolkit y TanStack Query, internacionalización con i18next y clientes tipados generados desde OpenAPI. Pruebo con Vitest y Testing Library, y cuido la accesibilidad con axe.
 
 **Backend Developer** — Diseño APIs REST con NestJS y Prisma sobre PostgreSQL y MySQL: autenticación con JWT y AWS Cognito, archivos en S3, documentación OpenAPI, validación con Zod y pruebas con Jest y Vitest. Para IA, backends con FastAPI y el OpenAI Agents SDK (RAG sobre vector stores).
 
@@ -38,29 +40,104 @@ He pasado por de todo: una app Android para inventarios, un ERP en VBA y Access,
 
 ## Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **Lenguajes**
 
-<a href="#stack"><img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,html,css&perline=10" alt="Lenguajes"></a>
+| Tecnología | Experiencia |
+| --- | --- |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=ts" alt="" width="20" align="center"></a> TypeScript | 3+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=js" alt="" width="20" align="center"></a> JavaScript | 3+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=py" alt="" width="20" align="center"></a> Python | 3+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=html" alt="" width="20" align="center"></a> HTML / CSS | 3+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=dotnet" alt="" width="20" align="center"></a> C# / .NET Framework | 2+ años |
+| VBA | 2+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=java" alt="" width="20" align="center"></a> Java (Android) | 1+ año |
+
+</td>
+<td valign="top" width="50%">
 
 **Frontend**
 
-<a href="#stack"><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,vue,nuxtjs,threejs&perline=10" alt="Frontend"></a> <a href="#stack"><img src="./assets/icons/antdesign.svg" alt="Ant Design" title="Ant Design" width="48"></a> <a href="#stack"><img src="./assets/icons/mantine.svg" alt="Mantine" title="Mantine" width="48"></a>
+| Tecnología | Experiencia |
+| --- | --- |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=react" alt="" width="20" align="center"></a> React | 3+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=nextjs" alt="" width="20" align="center"></a> Next.js | 3+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=redux" alt="" width="20" align="center"></a> Redux Toolkit | 3+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=tailwind" alt="" width="20" align="center"></a> Tailwind CSS | 3+ años |
+| <a href="#stack"><img src="./assets/icons/antdesign.svg" alt="" width="20" align="center"></a> Ant Design | 3+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=vite" alt="" width="20" align="center"></a> Vite | 1+ año |
+| TanStack Query | 1+ año |
+| <a href="#stack"><img src="./assets/icons/mantine.svg" alt="" width="20" align="center"></a> Mantine | 1+ año |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="" width="20" align="center"></a> Vue / Nuxt | 1+ año |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=threejs" alt="" width="20" align="center"></a> three.js | 1+ año |
 
-**Móvil (React Native + Expo, Android nativo) y escritorio (Electron)**
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-<a href="#stack"><img src="https://skillicons.dev/icons?i=react&perline=10" alt="React Native" title="React Native"></a> <a href="#stack"><img src="./assets/icons/expo.svg" alt="Expo" title="Expo" width="48"></a> <a href="#stack"><img src="https://skillicons.dev/icons?i=androidstudio,electron&perline=10" alt="Android Studio y Electron"></a>
+**Backend y datos**
 
-**Backend y datos** — también SQL Server y VBA / Microsoft Access
+| Tecnología | Experiencia |
+| --- | --- |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=nodejs" alt="" width="20" align="center"></a> Node.js | 3+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=firebase" alt="" width="20" align="center"></a> Firebase | 3+ años |
+| SQL Server | 2+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=nestjs" alt="" width="20" align="center"></a> NestJS | 2+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=prisma" alt="" width="20" align="center"></a> Prisma | 1+ año |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=postgres" alt="" width="20" align="center"></a> PostgreSQL | 1+ año |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=mysql" alt="" width="20" align="center"></a> MySQL | 1+ año |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=supabase" alt="" width="20" align="center"></a> Supabase | 1+ año |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=fastapi" alt="" width="20" align="center"></a> FastAPI | 1+ año |
 
-<a href="#stack"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,prisma,postgres,mysql,supabase,firebase&perline=10" alt="Backend y datos"></a>
-
-**IA e integraciones** — OpenAI, Stripe, Twilio/WhatsApp, Google Maps, Facturapi (CFDI)
-
-<a href="#stack"><img src="./assets/icons/openai.svg" alt="OpenAI" title="OpenAI" width="48"></a> <a href="#stack"><img src="./assets/icons/stripe.svg" alt="Stripe" title="Stripe" width="48"></a> <a href="#stack"><img src="./assets/icons/twilio.svg" alt="Twilio" title="Twilio" width="48"></a> <a href="#stack"><img src="./assets/icons/googlemaps.svg" alt="Google Maps" title="Google Maps" width="48"></a>
+</td>
+<td valign="top" width="50%">
 
 **Cloud, testing y herramientas**
 
-<a href="#stack"><img src="https://skillicons.dev/icons?i=aws,gcp,vercel,docker,githubactions,vitest,jest,git,linux,pnpm&perline=10" alt="Cloud y herramientas"></a>
+| Tecnología | Experiencia |
+| --- | --- |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=gcp" alt="" width="20" align="center"></a> GCP | 3+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=git" alt="" width="20" align="center"></a> Git | 3+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=docker" alt="" width="20" align="center"></a> Docker | 2+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=linux" alt="" width="20" align="center"></a> Linux | 1+ año |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=aws" alt="" width="20" align="center"></a> AWS | 1+ año |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=vitest" alt="" width="20" align="center"></a> Vitest | 1+ año |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=jest" alt="" width="20" align="center"></a> Jest | 1+ año |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=vercel" alt="" width="20" align="center"></a> Vercel | 1+ año |
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**Móvil y escritorio**
+
+| Tecnología | Experiencia |
+| --- | --- |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=react" alt="" width="20" align="center"></a> React Native | 2+ años |
+| <a href="#stack"><img src="./assets/icons/expo.svg" alt="" width="20" align="center"></a> Expo | 2+ años |
+| <a href="#stack"><img src="https://skillicons.dev/icons?i=electron" alt="" width="20" align="center"></a> Electron (React / React Native) | 2+ años |
+
+</td>
+<td valign="top" width="50%">
+
+**IA e integraciones**
+
+| Tecnología | Experiencia |
+| --- | --- |
+| <a href="#stack"><img src="./assets/icons/openai.svg" alt="" width="20" align="center"></a> OpenAI | 3+ años |
+| <a href="#stack"><img src="./assets/icons/twilio.svg" alt="" width="20" align="center"></a> Twilio / WhatsApp | 3+ años |
+| <a href="#stack"><img src="./assets/icons/googlemaps.svg" alt="" width="20" align="center"></a> Google Maps | 3+ años |
+| <a href="#stack"><img src="./assets/icons/stripe.svg" alt="" width="20" align="center"></a> Stripe | < 1 año |
+| Facturapi (CFDI) | < 1 año |
+
+</td>
+</tr>
+</table>
 
 ## Proyectos destacados
 
@@ -71,7 +148,7 @@ Casi todo mi trabajo vive en repositorios privados, así que aquí va un resumen
 | Proyecto | Qué es y qué hago | Stack |
 | --- | --- | --- |
 | **ScaleFlow Suite · Advance CRM**<br><sub>[Scaleflow](https://github.com/Scaleflow-Tech)</sub> | Suite empresarial white-label: CRM, ventas, cobranza, compras, inventario, finanzas, RH, logística y chat con IA, con un super admin que configura el branding de cada cliente. Desarrollo módulos y conecto la información entre áreas (oportunidades, pedidos, cobranza, requisiciones). | Next.js · Redux Toolkit · Firebase · Ant Design · Stripe · Twilio · OpenAI · BigQuery |
-| **Profile7**<br><sub>[ALPHAXPACE](https://github.com/ALPHAXPACE-LLC)</sub> | Plataforma SaaS multi-tenant: organizaciones, personas, consultas, empleos, invitaciones, permisos y sesiones activas. Desarrollo el frontend y lo conecto a la API. | React · Vite · Mantine · Redux Toolkit · AWS Amplify (Cognito) · i18next · Vitest · Playwright |
+| **Profile7**<br><sub>[ALPHAXPACE](https://github.com/ALPHAXPACE-LLC)</sub> | Plataforma SaaS multi-tenant: organizaciones, personas, consultas, empleos, invitaciones, permisos y sesiones activas. Desarrollo el frontend y lo conecto a la API. | React · Vite · Mantine · Redux Toolkit · AWS Amplify (Cognito) · i18next · Vitest |
 | **Mi Espacio Mereti**<br><sub>[Mereti Systems](https://github.com/Mereti-Systems)</sub> | Plataforma de recursos humanos multiempresa: consola web, app móvil de asistencia con geolocalización y notificaciones push, API y asistente con IA (RAG). Trabajo en todas las capas, con un contrato de tipos compartido entre API, web y móvil. | NestJS · Prisma · MySQL · AWS · React + Ant Design · React Native + Expo · FastAPI · OpenAI Agents SDK |
 | [**Inventory Tools Management**](https://github.com/dahlanGale/InventoryToolsManagment)<br><sub>IOE</sub> | App Android para la gestión de inventarios: inicio de sesión, inventarios por almacén, conteo de artículos con escáner de códigos de barras y trabajo por equipos, conectada a la base de datos de la empresa. | Java · Android · SQL Server |
 | **Mercader**<br><sub>IOE</sub> | ERP de escritorio con punto de venta y módulo de producción. Me encargué de optimizar el sistema y desarrollar funciones nuevas. | VBA · Microsoft Access |
